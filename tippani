@@ -1,0 +1,13 @@
+server- side languages 
+-> basically used to validate stuffs and get requests and send info from database.
+
+client-side languages 
+-> basically html css + javascript that gets data upon caling the backend and is responsible to show the data to user in different from 
+dynamic things and other stuffs.
+
+library :- is a set of code that is already written that performs some task , which while coding we can you that library instead of writing that code. ---- library helps in reusability.
+
+framework:-a framework is a foundational structure that supports the development of a software application.It provides a set of tools, libraries, conventions, and best practices designed to simplify and streamline the development process.
+
+
+
